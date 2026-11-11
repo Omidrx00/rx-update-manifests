@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "relays": {
+    "enabled": true,
+    "urls": [
+      "https://YOUR-RELAY-1.workers.dev",
+      "https://YOUR-RELAY-2.workers.dev"
+    ]
+  },
+  "announcements": [
+    {
+      "id": "notice-2026-001",
+      "title": "اطلاعیه مهم",
+      "message": "متن اطلاعیه خود را اینجا بنویسید.",
+      "enabled": true
+    }
+  ]
+}
