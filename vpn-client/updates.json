@@ -3,8 +3,8 @@
   "relays": {
     "enabled": true,
     "urls": [
-      "https://YOUR-RELAY-1.workers.dev",
-      "https://YOUR-RELAY-2.workers.dev"
+      "https://spring-wind-c4cd.omid88c8p8u8s.workers.dev/?secret=rxvpn1",
+      "https://young-dust-331b.omid88c8p8u8s.workers.dev/?secret=rxvpn2"
     ]
   },
   "announcements": [
