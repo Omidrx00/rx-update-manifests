@@ -6,13 +6,4 @@
       "https://spring-wind-c4cd.omid88c8p8u8s.workers.dev/?secret=rxvpn1",
       "https://young-dust-331b.omid88c8p8u8s.workers.dev/?secret=rxvpn2"
     ]
-  },
-  "announcements": [
-    {
-      "id": "notice-2026-001",
-      "title": "اطلاعیه مهم",
-      "message": "test1",
-      "enabled": true
-    }
-  ]
-}
+  }
